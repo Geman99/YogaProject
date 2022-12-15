@@ -7,7 +7,7 @@ Basic Instructions
 
 Project Instructions
 -----------------
-1. For  Admin operation go to ADMIN Menu and Click on the Login button to get Login Modal with user "Geman" and "Password:     1999" then click on View to view the applicants.
+1. For  Admin operation go to ADMIN Menu and Click on the Login button to get Login Modal with user "Geman99@gmail.com" and "Password:     1999" then click on View to view the applicants.
 2. For user/applicant enroll  Click on the 'Register' to register then click on login.After successful login:
 i) click on ADMISSION to fill Admission Form then redirect to Payment section.
 ii) Click on Change Schdule to change the yoga time slot.It can be done once in a month.
