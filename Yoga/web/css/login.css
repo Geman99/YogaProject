@@ -1,0 +1,28 @@
+#login_home{
+    background-color: beige; padding: 60px; outline: none; font-size: 25px; width: 450px; margin-top: 16%; margin-left: 29%;
+}
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 30px;
+/*  margin: 5px 0 22px 0;*/
+/*  display: inline-block;*/
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  outline: none;
+  color: white;
+  padding: 30px;
+/*  margin-left: 10%;*/
+/*  display: inline-block;*/
+  border: none;
+  width: 100%;
+  
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
