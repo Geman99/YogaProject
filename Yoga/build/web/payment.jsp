@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="style.css">
     <script>
         function paymentAlert(){
-            confirm("Payment Success");
+            alert("Payment Success");
         }
     </script>
 </head>
@@ -96,6 +96,7 @@
             </div>
         </form>
     </div>
+    <a href="login_success.jsp" style="color: red" ><b>Go Back</b></a>
 </body>
 
 </html>
