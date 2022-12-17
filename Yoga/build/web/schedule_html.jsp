@@ -15,17 +15,6 @@
     <div class="wrapper">
       <h2>Change Schedule</h2>
       <form method="post" action="schedule_month_check.jsp" >
-          <div class="input-group">
-          <div class="input-box">
-            <input
-              type="email"
-              placeholder="Email Adress" name="email"
-              required
-              class="name"
-            />
-            <i class="fa fa-envelope icon"></i>
-          </div>
-        </div>
         
         <div class="input-group">
           <div class="input-box">
