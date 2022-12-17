@@ -19,14 +19,14 @@
 
     <body>
         <div style="background-color: beige; padding:50px; font-size: 25px;">
-            <a href="index.jsp">Home</a>
+            <a href="login_success.jsp">Go Back</a>
             <%!
                 String userdbName;
 
             %>
 
             <%
-                String email = request.getParameter("email");
+                String email = (String)session.getAttribute("uname");
                 String schedule = request.getParameter("schedule");
                 Connection con = null;
 
