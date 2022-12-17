@@ -1,5 +1,5 @@
 
-<%@include file= "index.jsp" %>
+<%--<%@include file= "index.jsp" %>--%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -19,7 +19,8 @@
 alert("You have been successfully logout");
 
 </script>
-
+ 
+<% response.sendRedirect("index.jsp"); %>
 </body>
 
 </html>
